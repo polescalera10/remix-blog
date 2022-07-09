@@ -13,6 +13,7 @@ export default function Index () {
   return (
     <div>
       <h2>Welcome to Blog Remix</h2>
+
       <Nav />
       <List items={posts} />
     </div>

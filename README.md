@@ -1,6 +1,17 @@
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
+- [Prisma Docs](https://www.prisma.io/docs/)
+
+Introduction to Remix framework creating a Blog with it's unique functionalities as:
+- useTransition
+- useActionData
+- useLoaderData
+- ErrorBoundary
+
+Can create posts that will be saved in Prisma DB. 
+Routing and nested routing. 
+Lists Posts.
 
 ## Deployment
 
